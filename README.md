@@ -23,6 +23,18 @@ Randomly selected name:
 
 in a name will just show up when the project is ran.
 
+open the file with read() which was by the way it was just showing the first letter of 
+the name. 
+
+change it to readlines() and it showed the whole name.
+
 #### prerequisites
 require libraries: random
 no need to install packages random is a python standard library
+
+##### websites use for help
+readlines() method doc
+https://www.w3schools.com/python/ref_file_readlines.asp 
+
+read() method doc
+https://www.w3schools.com/python/ref_file_read.asp
