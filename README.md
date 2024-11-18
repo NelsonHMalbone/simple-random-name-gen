@@ -1,6 +1,6 @@
 # Generate Random Person Name
 
-Level: Basic/Beginner: Design for the ones sill learning and practicing the 
+Level: Basic/Beginner: Design for the ones still learning and practicing the 
 python fundamentals
 
 ## Project Description
