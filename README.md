@@ -38,3 +38,6 @@ https://www.w3schools.com/python/ref_file_readlines.asp
 
 read() method doc
 https://www.w3schools.com/python/ref_file_read.asp
+
+readme docs
+https://www.geeksforgeeks.org/what-is-readme-md-file/
